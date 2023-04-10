@@ -11,7 +11,7 @@ vue3 的图片预览组件
 Demo: [https://namewjp.github.io/vue3-photo-preview/](https://namewjp.github.io/vue3-photo-preview/)
 
 ## 开始使用
-### 安装
+### 安装1
 ```
 npm install -S vue3-photo-preview
 ```
